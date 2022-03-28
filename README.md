@@ -1,4 +1,4 @@
-# HTML-Table-Python-Flask-
+# HTML-Table with Python (Flask)
 
 Create a table using list of dictionaries and have it available for your route.
 
